@@ -6,7 +6,7 @@
 	"description": "To install dependencies: bun install",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Frikadellios/hackaton-starter.git"
+		"url": "https://github.com/Frikadellios/hackaton-starter-turborepo.git"
 	},
 	"engines": {
 		"node": ">=20.17.0"
